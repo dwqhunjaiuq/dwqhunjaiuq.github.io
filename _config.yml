@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://houven.top
+url: http://dwqhunjaiuq.github.io
 date_format: "ordinal"
 title: 巫师
 subtitle: "打码改变人生"
@@ -77,7 +77,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: ophina/ophina.github.io
+repository: dwqhunjaiuq/dwqhunjaiuq.github.io
 
 # ---------------- #
 #      Comments    #
